@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/om shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/om.shukla_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om.shukla_28" height="30" width="40" /></a>
+<a href="https://instagram.com/om.shukla_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om.shukla_24" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/build with om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="build with om" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zeal_hyena_41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeal_hyena_41" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/om_24shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="om_24shukla" height="30" width="40" /></a>
