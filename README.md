@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/om.shukla__24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om.shukla__24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@omshukla9207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@omshukla9207" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@omshukla9207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Build with Om" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zeal_hyena_41" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeal_hyena_41" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/om.zoo1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="om.zoo1234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/24om_shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="24om_shukla" height="30" width="40" /></a>
