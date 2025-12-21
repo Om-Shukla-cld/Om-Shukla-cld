@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning & Deep Learning enthusiast from India, building intelligent systems with OpenCV and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-shukla-cld&label=Profile%20views&color=0e75b6&style=flat" alt="om-shukla-cld" /> </p>
 
