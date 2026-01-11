@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om-shukla-cld&show_icons=true&locale=en" alt="om-shukla-cld" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-shukla-cld&" alt="om-shukla-cld" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?Om-Shukla-cld=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
