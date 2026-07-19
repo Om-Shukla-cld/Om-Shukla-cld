@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffd5&height=220&section=header&text=Om%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94560&height=200&section=header&text=Your%20Name&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <img alt="Om Shukla profile card" src="profile_card.svg" width="900"/>
 
