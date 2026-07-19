@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffd5&height=180&section=header&text=Om%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img alt="Om Shukla profile card" src="profile_card.svg" width="900"/>
+<img alt="Om Shukla profile card" src="profile_card_preview5.png" width="900"/>
 
 <h1>Hi 👋, I'm Om Shukla</h1>
 <h3>🚀 Machine Learning • Deep Learning • Cloud Engineer in the Making</h3>
