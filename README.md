@@ -57,6 +57,9 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/om-shukla-569904313/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://instagram.com/om.shukla__24">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ffd5"/>
 </a>
